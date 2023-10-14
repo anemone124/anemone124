@@ -20,7 +20,7 @@ I started programming since 2018, when I was 12 years old.
 </picture>
 
 ## Music I Listen To (Not Necessarily While Coding)
-<link>https://open.spotify.com/user/31lkupjq3emsgyydeulf5davdnpe?si=841e8a1add4c4789</link>
+<a href="https://open.spotify.com/user/31lkupjq3emsgyydeulf5davdnpe?si=841e8a1add4c4789"></a>
 <!--
 **anemone124/anemone124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
