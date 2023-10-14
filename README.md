@@ -19,8 +19,6 @@ I started programming since 2018, when I was 12 years old.
   <img width="64px" alt="npm" src="https://camo.githubusercontent.com/adb5a4ad9ef6595b2588c371f02296da3cb3533f4a7387a19f0818501e75f2ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e706d2f6e706d2d6f726967696e616c2d776f72646d61726b2e737667">
 </picture>
 
-## Music I Listen To (Not Necessarily While Coding)
-<a href="https://open.spotify.com/user/31lkupjq3emsgyydeulf5davdnpe?si=841e8a1add4c4789"></a>
 <!--
 **anemone124/anemone124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
